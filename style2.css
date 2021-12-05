@@ -178,6 +178,8 @@ body {
 
 .imagebox {
   position: relative;
+   max-width: 100%;
+  height: auto;
 }
 
 img {
